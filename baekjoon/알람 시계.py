@@ -1,4 +1,5 @@
 hour, minute = input().split()
+h = int(hour)
 m = int(minute)
 
 if m >= 45:
