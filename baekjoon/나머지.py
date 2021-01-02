@@ -1,8 +1,0 @@
-a = int(input())
-b = int(input())
-c = int(input())
-
-print((a+b)%c)
-print(((a%c)+(b%c))%c)
-print((a*b)%c)
-print(((a%c)*(b%c))%c)
