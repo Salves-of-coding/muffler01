@@ -2,6 +2,9 @@
 
 ## 변수의 이해
 - print() : () 안의 내용을 출력하는 함수
+  - ex)<br>
+  print("Hello World!")<br>
+  Hello World!
 - name = value : name이라는 변수에 value라는 값을 넣는다.
 - 변수명 선언 규칙
   - 알파벳, 숫자, 밑줄로 선언할 수 있다.
@@ -34,7 +37,7 @@
   - str() : 문자형으로 변환
 - 자료형 확인하기
   - type() : 자료형을 확인하는 함수<br>
-  - ex)<br>
+  - ex) <br>
   a = int(10.3)<br>
   type(a)<br>
   <class 'int>
