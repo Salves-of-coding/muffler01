@@ -34,9 +34,10 @@
   - str() : 문자형으로 변환
 - 자료형 확인하기
   - type() : 자료형을 확인하는 함수<br>
-    > a = int(10.3)<br>
-    > type(a)<br>
-    > <class 'int>
+  - ex)<br>
+  a = int(10.3)<br>
+  type(a)<br>
+  <class 'int>
 
 ## 관련 문제
 - [입출력과 사칙연산](https://www.acmicpc.net/step/1)
