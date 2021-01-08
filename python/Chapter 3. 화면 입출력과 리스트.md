@@ -15,11 +15,11 @@
   - ex) <br>
   ```python
   print("Enter Value:")
-  a = input()<br>
-  print("Value:", a)<br>
-  Enter Value:<br>
-  12<br>
-  Value: 12
+  a = input()
+  print("Value:", a)
+  Enter Value: # 입력대기
+  12           # 사용자 입력
+  Value: 12    # 
   ```
 - print() : 문자를 출력하는 함수
   
