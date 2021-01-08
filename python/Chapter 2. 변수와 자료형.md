@@ -40,8 +40,8 @@
 - type() : 자료형을 확인하는 함수
   - ex) <br>
    ```python
-  a = int(10.3)<br>
-  type(a)<br>
+  a = int(10.3)
+  type(a)
   <class 'int>
   ```
 
