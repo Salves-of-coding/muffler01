@@ -103,6 +103,8 @@
   ```
   - listname[n] = value : n 인덱스에 value 값을 할당(재할당)
   - del listname[n] : n 인덱스의 value 값을 삭제
+  - len() : list의 길이를 값으로 출력하는 함수
+  - sort() : list를 정렬하는 함수
 - packing & unpacking
   - packing : 한 변수에 여러 개의 데이터를 할당하는 것
   - unpacking :  한 변수에 여러 개의 데이터가 들어 있을 때, 그것을 각각의 변수로 반환하는 것
@@ -119,4 +121,18 @@
   3
   ```
 ## 리스트의 메모리 관리 방식
- 
+- 값과 메모리 주소값
+  - 값은 같아도 메모리 주소값이 다를 수 있다.
+  - ex) <br>
+  ```python
+  a = 300
+  b = 300
+  a is b   # 메모리 주소가 다르기 때문에 False
+  False
+  a == b   # 값 자체는 같기 때문에 True
+  True
+  ```
+  - -5 ~ 256은 같은 메모리 주소를 할당받는다.
+
+## 관련 문제
+[1차원 배열](https://www.acmicpc.net/step/6)
