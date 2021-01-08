@@ -50,9 +50,9 @@
   ```python
   colors = ['red','blue','green']
   ```
-  red index = 0<br>
-  blue index = 1<br>
-  green index = 2
+  -> red index = 0 <br>
+  -> blue index = 1<br>
+  -> green index = 2
   - slicing : 리스트의 인덱스를 사용하여 전체 리스트에서 일부를 잘라내어 반환
   - ex) <br>
   ```python
