@@ -64,5 +64,46 @@
   ```python
   변수명[시작 인덱스:마지막 인덱스:증가값]
   ```
+- 리스트의 연산
+  - 덧셈 연산 : 리스트끼리 더해 하나의 리스트를 형성
+  - 곱셉 연산 : 리스트에 n을 곱하면, 같은 리스트를 n배만큼 늘려줌
+  - in 연산 : 포함 여부를 확인하는 연산
+- 리스트 추가 및 삭제
+  - append() : 리스트 맨 끝 인덱스에 새로운 값을 추가하는 함수
+  - ex) <br>
+  ```python
+  list = [1,2,3]
+  list.append(4)
+  list
+  [1,2,3,4]
+  ```
+  - extend() : 리스트의 덧셈 연산과 동일, 리스트에 리스트를 합치는 함수
+  - ex) <br>
+  ```python
+  list = [1,2,3]
+  list.extend([4,5])
+  list
+  [1,2,3,4,5]
+  ```
+  - insert() : append() 함수와 달리 특정 위치에 값을 추가하는 함수
+  - ex) <br>
+  ```python
+  list = [1,2,3]
+  list.insert(3, 4)
+  list
+  [1,2,3,4]
+  ```
+  - remove() : 특정 값을 지우는 함수
+  - ex) <br>
+  ```python
+  list = [1,2,3]
+  list.remove(2)
+  list
+  [1,3]
+  ```
+  - listname[n] = value : n 인덱스에 value 값을 할당(재할당)
+  - del listname[n] : n 인덱스의 value 값을 삭제
+  
+  
 ## 리스트의 메모리 관리 방식
  
