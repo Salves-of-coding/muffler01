@@ -254,4 +254,11 @@
   - 프로그래밍에서 오류를 버그라고 하고, 오류를 수정하는 과정을 디버그라고 한다.
 - 오류의 종류와 해결 방법
   - 문법적 오류 : 인터프리터가 해석을 못 해 코드 자체를 실행시키지 못하는 오류
-    - 들여쓰기 오류
+    - 들여쓰기 오류 : IndentationError 출력
+    - 오탈자로 인한 오류 : NameError 출력
+  - 논리적 오류 : 논리적으로 잘못된 부분이 있을 때 실행시키지 못하는 오류
+  
+## 관련 문제
+[if문](https://www.acmicpc.net/step/4)
+[for문](https://www.acmicpc.net/step/3)
+[while문](https://www.acmicpc.net/step/2)
