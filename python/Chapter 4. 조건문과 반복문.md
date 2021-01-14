@@ -259,6 +259,6 @@
   - 논리적 오류 : 논리적으로 잘못된 부분이 있을 때 실행시키지 못하는 오류
   
 ## 관련 문제
-[if문](https://www.acmicpc.net/step/4)
-[for문](https://www.acmicpc.net/step/3)
-[while문](https://www.acmicpc.net/step/2)
+[if문](https://www.acmicpc.net/step/4)<br>
+[for문](https://www.acmicpc.net/step/3)<br>
+[while문](https://www.acmicpc.net/step/2)<br>
