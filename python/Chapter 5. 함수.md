@@ -121,7 +121,7 @@
   Second value is 4
   Third value is 5
   ```
-  - '**'** : 키워드 가변 인수를 만들기 위해서 사용 (dictionary형)
+  - ** : 키워드 가변 인수를 만들기 위해서 사용 (dictionary형)
 
 ## 관련 문제
 [함수](https://www.acmicpc.net/step/5)<br>
