@@ -106,7 +106,7 @@
   
   15
   ```
-  - * : 변수를 묶어 주는 가변 인수를 만들기 위해서 사용 (tuple형)
+  - '*' : 변수를 묶어 주는 가변 인수를 만들기 위해서 사용 (tuple형)
 - 키워드 가변 인수(keyword variable-length arguments) : 가변 인수의 변수 이름을 지정할 수 없는 단점을 보완할 때 사용하는 방법
   ```python
   def kwargs_test(**kwargs):
@@ -121,7 +121,7 @@
   Second value is 4
   Third value is 5
   ```
-  - ** : 키워드 가변 인수를 만들기 위해서 사용 (dictionary형)
+  - ****** : 키워드 가변 인수를 만들기 위해서 사용 (dictionary형)
 
 ## 관련 문제
 [함수](https://www.acmicpc.net/step/5)<br>
