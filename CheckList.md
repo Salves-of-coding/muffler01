@@ -3,5 +3,5 @@
 - [x] python
 - [ ] unity
 - [x] baekjoon 2Q
-- [ ] baekjoon review
+- [x] baekjoon review
 - [ ] dot
