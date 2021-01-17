@@ -5,3 +5,4 @@
 - [x] baekjoon 2Q
 - [x] baekjoon review
 - [ ] dot
+- [ ] game analyze
