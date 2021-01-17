@@ -1,7 +1,6 @@
 # 2021. 01. 17.
-- [ ] c#
-- [ ] c
-- [ ] python
+- [x] c
+- [x] python
 - [ ] unity
 - [ ] baekjoon 2Q
 - [ ] baekjoon review
