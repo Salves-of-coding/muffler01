@@ -7,6 +7,7 @@
 - [**GitHub 입문(하)**](https://www.youtube.com/watch?v=GaKjTjwcKQo)
 - [**GitHub에서 폴더를 생성하는 방법**](https://twoicefish-secu.tistory.com/121)
 - [**Git정리글**](https://github.com/Salves-of-coding/cmd/blob/main/README.md)
+- [**GitHub에 폴더 올리는 방법**](https://ninearies.tistory.com/60)
 
 
 ## programing
