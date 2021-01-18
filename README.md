@@ -5,6 +5,9 @@
 - [**GitHub fork 삭제법**](https://m.cafe.daum.net/candan/GGFN/218?listURI=%2Fcandan%2FGGFN)
 - [**GitHub 입문(상)**](https://www.youtube.com/watch?v=FXDjmsiv8fI)
 - [**GitHub 입문(하)**](https://www.youtube.com/watch?v=GaKjTjwcKQo)
+- [**GitHub에서 폴더를 생성하는 방법**](https://twoicefish-secu.tistory.com/121)
+- [**Git정리글**](https://github.com/Salves-of-coding/cmd/blob/main/README.md)
+
 
 ## programing
 - [**아스키 코드표**](https://shaeod.tistory.com/228)
