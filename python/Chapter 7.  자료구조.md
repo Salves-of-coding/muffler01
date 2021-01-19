@@ -4,7 +4,7 @@
 - 자료구조(data structure) : 데이터의 특징을 고려하여 데이터를 저장하는 방법
 - 파이썬에서의 자료구조
 
-|자료구조명||특징|
+|자료구조명|특징|
 |:---:|:---:|
 |스택(stack)|LIFO(Last In First Out)|
 |큐(queue)|FIFO(First In First Out)|
