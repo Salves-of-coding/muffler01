@@ -4,14 +4,14 @@
 - 자료구조(data structure) : 데이터의 특징을 고려하여 데이터를 저장하는 방법
 - 파이썬에서의 자료구조
 
-  |자료구조명||특징|
-  |:---:|:---:|
-  |스택(stack)|LIFO(Last In First Out)|
-  |큐(queue)|FIFO(First In First Out)|
-  |튜플(tuple|리스트와 같지만 데이터의 변경을 허용하지 않는 자료구조|
-  |세트(set)|데이터의 중복을 허용하지 않고, 수학의 집합 연산을 지원하는 자료구조|
-  |딕셔너리(dictionary)|key와 value형태의 데이터를 저장하는 자료구조|
-  |collections 모듈|자료구조를 효율적으로 사용할 수 있도록 지원하는 파이썬 내장 모듈|
+|자료구조명||특징|
+|:---:|:---:|
+|스택(stack)|LIFO(Last In First Out)|
+|큐(queue)|FIFO(First In First Out)|
+|튜플(tuple|리스트와 같지만 데이터의 변경을 허용하지 않는 자료구조|
+|세트(set)|데이터의 중복을 허용하지 않고, 수학의 집합 연산을 지원하는 자료구조|
+|딕셔너리(dictionary)|key와 value형태의 데이터를 저장하는 자료구조|
+|collections 모듈|자료구조를 효율적으로 사용할 수 있도록 지원하는 파이썬 내장 모듈|
   
 ## 스택과 큐
 - 스택(stack) : LIFO, 마지막에 들어간 데이터가 가장 먼저 나오는 자료형
