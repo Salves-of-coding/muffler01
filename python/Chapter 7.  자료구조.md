@@ -160,7 +160,7 @@
 - 더 자세한 내용은 '데이터 과학을 위한 파이썬 프로그래밍'을 참고
 
 ## 관련 문제
-[스택](https://www.acmicpc.net/step/11)
-[큐, 덱](https://www.acmicpc.net/step/12)
-[우선순위 큐](https://www.acmicpc.net/step/13)
-[정렬](https://www.acmicpc.net/step/9)
+[스택](https://www.acmicpc.net/step/11) <br>
+[큐, 덱](https://www.acmicpc.net/step/12) <br>
+[우선순위 큐](https://www.acmicpc.net/step/13) <br>
+[정렬](https://www.acmicpc.net/step/9) <br>
