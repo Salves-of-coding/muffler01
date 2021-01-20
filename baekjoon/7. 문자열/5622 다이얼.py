@@ -44,3 +44,23 @@ for i in list_w:
     elif 119 <= ord(i) <= 122:
         time += 10
 print(time)
+
+# 5622 다이얼 - 2
+"""
+접근법
+1. alphabet을 리스트형으로 묶어 인덱스 번호를 이용한다. (인덱스 번호에 3을 더하면 time이기 때문이다.)
+- for
+    - for
+        2. word[i] in j : word의 i번째 인덱스에 해당되는 알파벳이 j 안에 있다면 j의 인덱스 값에 3을 더한 값을 time에 더한다.
+3. time을 출력한다.
+"""
+word = input()
+alphabet = ['ABC','DEF','GHI','JKL','MNO','PQRS','TUV','WXYZ']
+time = 0
+
+for i in range(len(word)):
+    for j in alphabet:
+        if word[i] in j:
+            time += alphabet.index(j) + 3
+
+print(time)
