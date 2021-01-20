@@ -12,6 +12,7 @@
 
 ## programing
 - [**아스키 코드표**](https://shaeod.tistory.com/228)
+- [**py. 문자열 거꾸로 출력하는 여러가지 방법**](https://itholic.github.io/python-reverse-string/)
 
 ## Rec.Question
 - [**10872**](https://www.acmicpc.net/problem/10872)
