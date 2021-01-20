@@ -30,3 +30,17 @@ if int(rev_a) < int(rev_b):
     print(rev_b)
 else:
     print(rev_a)
+    
+# 2908 상수 - 2
+"""
+접근법
+1. join(), reversed()함수를 이용하여 문자열을 거꾸로 바꾼다.
+- if
+    2. 바꿔진 항목끼리 비교하여 더 큰 쪽을 출력한다.
+"""
+a, b = input().split()
+if ''.join(reversed(a)) < ''.join(reversed(b)):
+    print(''.join(reversed(b)))
+else:
+    print(''.join(reversed(a)))
+    
