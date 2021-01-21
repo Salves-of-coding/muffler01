@@ -9,12 +9,15 @@
 - [**Git정리글**](https://github.com/Salves-of-coding/cmd/blob/main/README.md)
 - [**GitHub에 폴더 올리는 방법**](https://ninearies.tistory.com/60)
 
-
 ## programing
 - [**아스키 코드표**](https://shaeod.tistory.com/228)
 - [**py. 문자열 거꾸로 출력하는 여러가지 방법**](https://itholic.github.io/python-reverse-string/)
 - [**py. class 정리**](https://wikidocs.net/16071)
 - [**py. 파이썬 - 기본을 갈고 닦자!**](https://wikidocs.net/book/1553)
+
+## math
+- [**계차수열**](https://m.blog.naver.com/PostView.nhn?blogId=sbssbi69&logNo=90161425266&proxyReferer=https:%2F%2Fwww.google.com%2F)
+
 ## Rec.Question
 - [**10872 팩토리얼**](https://www.acmicpc.net/problem/10872)
 - [**15596 정수 N개의 합**](https://www.acmicpc.net/problem/15596)
