@@ -23,6 +23,8 @@
 - [**5622 다이얼**](https://www.acmicpc.net/problem/5622)
 - [**2908 상수**](https://www.acmicpc.net/problem/2908)
 - [**1316 그룹 단어 체커**](https://www.acmicpc.net/problem/1316)
+- [**2292 벌집**](https://www.acmicpc.net/problem/2292)
+- [**1193 분수찾기**](https://www.acmicpc.net/problem/1193)
 
 ## MarkDown
 - [**MarkDown 기본적인 사용법**](https://heropy.blog/2017/09/30/markdown/)
