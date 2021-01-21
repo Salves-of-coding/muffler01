@@ -16,10 +16,13 @@
 - [**py. class 정리**](https://wikidocs.net/16071)
 - [**py. 파이썬 - 기본을 갈고 닦자!**](https://wikidocs.net/book/1553)
 ## Rec.Question
-- [**10872**](https://www.acmicpc.net/problem/10872)
-- [**15596**](https://www.acmicpc.net/problem/15596)
-- [**4673**](https://www.acmicpc.net/problem/4673)
-- [**1157**](https://www.acmicpc.net/problem/1157)
+- [**10872 팩토리얼**](https://www.acmicpc.net/problem/10872)
+- [**15596 정수 N개의 합**](https://www.acmicpc.net/problem/15596)
+- [**4673 셀프 넘버**](https://www.acmicpc.net/problem/4673)
+- [**1157 단어 공부**](https://www.acmicpc.net/problem/1157)
+- [**5622 다이얼**](https://www.acmicpc.net/problem/5622)
+- [**2908 상수**](https://www.acmicpc.net/problem/2908)
+- [**1316 그룹 단어 체커**](https://www.acmicpc.net/problem/1316)
 
 ## MarkDown
 - [**MarkDown 기본적인 사용법**](https://heropy.blog/2017/09/30/markdown/)
