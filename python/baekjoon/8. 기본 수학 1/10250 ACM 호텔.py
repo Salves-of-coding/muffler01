@@ -48,3 +48,24 @@ for i in range(t):
             print(str(n)+"0"+str(room_x))
         elif room_x >= 10 and n <= h:
             print(str(n)+str(room_x))
+            
+# 10250 ACM 호텔 - 2
+"""
+접근법
+- for
+    1. h,w,n을 map()으로 할당받는다.
+    2. n % h == 0, n % h != 0 인 경우 2가지로 나눠보자.
+    - if
+        3. n % h == 0 인 경우, 호실의 번호는 h*100 + n//h이다.
+    - else
+        4. n % h != 0 인 경우, 호실의 번호는 (n%h)*100 + (n//h) + 1이다.
+ 
+"""
+
+t = int(input())
+for _ in range(t):
+    h, w, n = map(int, input().split())
+    if n % h == 0:
+        print(h*100 + (n//h))
+    else:
+        print((n%h)*100 + (n//h) + 1)
