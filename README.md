@@ -14,6 +14,7 @@
 - [**py. 문자열 거꾸로 출력하는 여러가지 방법**](https://itholic.github.io/python-reverse-string/)
 - [**py. class 정리**](https://wikidocs.net/16071)
 - [**py. 파이썬 - 기본을 갈고 닦자!**](https://wikidocs.net/book/1553)
+- [**c. 연산자 우선 순위와 결합(연산) 방향**](https://baessi.tistory.com/14)
 
 ## math
 - [**계차수열**](https://m.blog.naver.com/PostView.nhn?blogId=sbssbi69&logNo=90161425266&proxyReferer=https:%2F%2Fwww.google.com%2F)
