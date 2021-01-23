@@ -30,6 +30,7 @@
 - [**2292 벌집**](https://www.acmicpc.net/problem/2292)
 - [**1193 분수찾기**](https://www.acmicpc.net/problem/1193)
 - [**10250 ACM 호텔**](https://www.acmicpc.net/problem/10250)
+- [**2775 부녀회장이 될테야**](https://www.acmicpc.net/problem/2775)
 
 ## MarkDown
 - [**MarkDown 기본적인 사용법**](https://heropy.blog/2017/09/30/markdown/)
