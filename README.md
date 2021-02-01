@@ -16,6 +16,7 @@
 - [**py. 파이썬 - 기본을 갈고 닦자!**](https://wikidocs.net/book/1553)
 - [**py. 제곱과 루트 구하는 여러가지 방법**](https://dongyeopblog.wordpress.com/2016/02/05/python-%EC%A0%9C%EA%B3%B1%EA%B3%BC-%EB%A3%A8%ED%8A%B8-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 - [**py. 2진수, 8진수, 16진수 다루기**](https://www.daleseo.com/python-int-bases/)
+- [**py. maximum recursion depth exceeded in comparison 오류 정리**](https://juhee-maeng.tistory.com/31)
 - [**c. 연산자 우선 순위와 결합(연산) 방향**](https://baessi.tistory.com/14)
 - [**c. int main과 void main에 대한 이야기**](http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221243513396)
 
