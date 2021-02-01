@@ -22,6 +22,7 @@
 ## math
 - [**계차수열**](https://m.blog.naver.com/PostView.nhn?blogId=sbssbi69&logNo=90161425266&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [**2진수의 사칙연산**](https://m.blog.naver.com/PostView.nhn?blogId=dlqnf33&logNo=221310335602&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [**조합이란**](https://ko.wikipedia.org/wiki/%EC%A1%B0%ED%95%A9)
 
 ## Rec.Question
 - [**10872 팩토리얼**](https://www.acmicpc.net/problem/10872)
