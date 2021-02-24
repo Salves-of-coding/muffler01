@@ -19,6 +19,7 @@
 - [**py. maximum recursion depth exceeded in comparison 오류 정리**](https://juhee-maeng.tistory.com/31)
 - [**c. 연산자 우선 순위와 결합(연산) 방향**](https://baessi.tistory.com/14)
 - [**c. int main과 void main에 대한 이야기**](http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221243513396)
+- [**알고리즘 공부 시작하기**](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)
 
 ## math
 - [**계차수열**](https://m.blog.naver.com/PostView.nhn?blogId=sbssbi69&logNo=90161425266&proxyReferer=https:%2F%2Fwww.google.com%2F)
